@@ -1,6 +1,6 @@
 # Welcome to Cloud Haiku
 
-Cloud Haiku is an open-source repository that collects haikus about the cloud and cloud technology and publishes these haikus to its website.
+Cloud Haiku is an open-source repository that collects haikus about the cloud and cloud technology and publishes these haikus to its website. HA
 
 ## [Haikus](https://do-community.github.io/cloud_haiku/haikus/)
 
